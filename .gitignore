@@ -16,6 +16,7 @@ build/
 .settings/
 .project
 .classpatch
+.classpath
 
 # Intellij idea ignore
 .idea/
